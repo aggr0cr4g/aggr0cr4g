@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aggr0cr4g (Jake)
-- 👀 I’m interested in the Cyberz
-- 🌱 I’m currently learning Offensive Cyber as well as ICS
+- 👀 I’m interested in Offensive Cyber, Data Science, and ICS/SCADA
+- 🌱 I’m currently earning my Masters in Cybersecurity from Georgia Institute of Technology 
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me ...
 
