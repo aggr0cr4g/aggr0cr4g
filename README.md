@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aggr0cr4g (Jake Coyne)
+- 👋 Hi, I’m @aggr0cr4g (Jake)
 - 👀 I’m interested in the Cyberz
 - 🌱 I’m currently learning Offensive Cyber as well as ICS
 - 💞️ I’m looking to collaborate on Data Science Projects 
