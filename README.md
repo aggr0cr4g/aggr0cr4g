@@ -2,7 +2,7 @@
 - 👀 I’m interested in Offensive Cyber, Data Science, and ICS/SCADA
 - 🌱 I’m currently earning my Masters in Cybersecurity from Georgia Institute of Technology 
 - 💞️ I’m looking to collaborate on Data Science Projects 
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://aj-labz.gitbook.io/aj-labz/
 
 <!---
 aggr0cr4g/aggr0cr4g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
