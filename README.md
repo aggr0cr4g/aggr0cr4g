@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me ... https://aj-labz.gitbook.io/aj-labz/
 
+Websites I manage out of this Git:
+- schofieldfamilyfoundation.com
+- kendallcoyne.com
+
 <!---
 aggr0cr4g/aggr0cr4g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
