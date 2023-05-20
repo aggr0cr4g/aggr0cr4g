@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aggr0cr4g (Jake)
 - 👀 I’m interested in Offensive Cyber, Data Science, and ICS/SCADA
-- 🌱 I’m currently earning my Masters in Cybersecurity from Georgia Institute of Technology 
-- 💞️ I’m looking to collaborate on Data Science Projects 
+- 🌱 I have my Masters in Cybersecurity from Georgia Institute of Technology 
+- 💞️ I’m looking to collaborate on Penatration Testing Projects 
 - 📫 How to reach me ... https://aj-labz.gitbook.io/aj-labz/
 
 Websites I manage out of this Git:
